@@ -2,7 +2,7 @@
 
 namespace Entidades
 {
-    public class Class1
+    public class EUsuarios
     {
     }
 }
